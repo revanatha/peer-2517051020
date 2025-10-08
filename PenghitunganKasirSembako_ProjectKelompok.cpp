@@ -2,7 +2,7 @@
 using namespace std;
 
 string produk(string pilihan) {
-    string sembako[] = {""}
+    string sembako[] = {""};
 }
 int main(){
     cout << " =================================================================================== " << endl;
@@ -10,7 +10,7 @@ int main(){
     cout << "                                     TOKO SEMBAKO                                    " << endl;
     cout << " =================================================================================== " << endl;
 
-    cout << " DAFTAR HARGA SEMBAKO  HASIL INDUSTRI : " << endl << endl ;
+    cout << " DAFTAR HARGA SEMBAKO  HASIL INDUSTRI : " << endl << endl;
 
     cout << " Beras Premium               : Rp17000/kg " << endl;
     cout << " Beras Bulog                 : Rp12000/kg " << endl;
