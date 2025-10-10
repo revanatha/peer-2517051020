@@ -29,7 +29,7 @@ int main(){
     cout << " [Kode 16] Cabe Rawit Hijau            : Rp40000/kg " << endl;
     cout << " [Kode 17] Cabe Rawit Hijau            : Rp40000/kg " << endl;
     cout << " [Kode 18] Bawang Putih                : Rp35000/kg " << endl;
-    cout << " [Kode 18] Bawang Merah                : Rp20000/kg " << endl;
+    cout << " [Kode 19] Bawang Merah                : Rp20000/kg " << endl;
     cout << "====================================================================================" <<endl;
 
     string sembako[19] = {"Beras Premium", "Beras Bulog", "Minyak Goreng Bimoli", "Minyak Goreng KITA",
@@ -51,6 +51,13 @@ int main(){
     cout << "Kode produk yang anda beli : ";
 
     int total_harga = 0;
+
+    for(int i = 1; i <= jumlah_beli; i++){
+        cin >> pilihan;
+        cout << endl;
+
+        for
+    }
     
 
 
