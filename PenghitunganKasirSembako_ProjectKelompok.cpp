@@ -7,7 +7,7 @@ int main(){
     cout << "                                   SELAMAT DATANG DI                               " << endl;
     cout << "                                     TOKO SEMBAKO                                  " << endl;
     cout << "===================================================================================" << endl;
-    cout << "|  KODE          |          DAFTAR HARGA SEMBAKO  HASIL INDUSTRI :                 |" << end << endl;
+    cout << "|  KODE          |          DAFTAR HARGA SEMBAKO  HASIL INDUSTRI                   |" << end << endl;
     cout << "=================================================================================== " << endl;
     cout << "|   [Kode 0]     |      Beras Premium                     : Rp17000/kg             |" << endl;
     cout << "|   [Kode 1]     |      Beras Bulog                       : Rp12000/kg             |" << endl; 
