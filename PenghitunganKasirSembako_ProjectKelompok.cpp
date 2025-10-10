@@ -10,24 +10,24 @@ int main(){
 
     cout << " DAFTAR HARGA SEMBAKO  HASIL INDUSTRI : " << endl << endl;
 
-    cout << " Beras Premium               : Rp17000/kg " << endl;
-    cout << " Beras Bulog                 : Rp12000/kg " << endl;
-    cout << " Minyak Goreng Bimoli        : Rp22600/liter " << endl;
-    cout << " Minyak Goreng KITA          : Rp15000/liter " << endl;
-    cout << " Gula Pasir                  : Rp18000/kg " << endl;
-    cout << " Tepung terigu               : Rp12000/kg " << endl;
-    cout << " Tepung Terigu Segitiga Biru : Rp14000/kg " << endl;
-    cout << " Garam Kasar                 : Rp4500/bungkus " << endl;
-    cout << " Garam Halus                 : Rp3000/bungkus " << endl;
-    cout << " Blue Band Margarine         : Rp15000/sachet " << endl;
-    cout << " Telur                       : Rp58000/piring " << endl;
-    cout << " Daging Ayam                 : Rp48000/kg " << endl;
-    cout << " Daging Sapi                 : Rp150000/kg " << endl;
-    cout << " Cabe Merah                  : Rp45500/kg " << endl;
-    cout << " Cabe Merah Keriting         : Rp43000/kg " << endl;
-    cout << " Cabe Rawit Merah            : Rp45000/kg " << endl;
-    cout << " Cabe Rawit Hijau            : Rp40000/kg " << endl;
-    cout << " Cabe Rawit Hijau            : Rp40000/kg " << endl;
+    cout << " 1. Beras Premium               : Rp17000/kg " << endl;
+    cout << " 2. Beras Bulog                 : Rp12000/kg " << endl;
+    cout << " 3. Minyak Goreng Bimoli        : Rp22600/liter " << endl;
+    cout << " 4. Minyak Goreng KITA          : Rp15000/liter " << endl;
+    cout << " 5. Gula Pasir                  : Rp18000/kg " << endl;
+    cout << " 6. Tepung terigu               : Rp12000/kg " << endl;
+    cout << " 7. Tepung Terigu Segitiga Biru : Rp14000/kg " << endl;
+    cout << " 8. Garam Kasar                 : Rp4500/bungkus " << endl;
+    cout << " 9. Garam Halus                 : Rp3000/bungkus " << endl;
+    cout << " 10. Blue Band Margarine         : Rp15000/sachet " << endl;
+    cout << " 11. Telur                       : Rp58000/piring " << endl;
+    cout << " 12. Daging Ayam                 : Rp48000/kg " << endl;
+    cout << " 13. Daging Sapi                 : Rp150000/kg " << endl;
+    cout << " 14. Cabe Merah                  : Rp45500/kg " << endl;
+    cout << " 15. Cabe Merah Keriting         : Rp43000/kg " << endl;
+    cout << " 16. Cabe Rawit Merah            : Rp45000/kg " << endl;
+    cout << " 17. Cabe Rawit Hijau            : Rp40000/kg " << endl;
+    cout << " 18. Cabe Rawit Hijau            : Rp40000/kg " << endl;
     cout << "====================================================================================" <<endl;
 
     string sembako[19] = {"Beras Premium", "Beras Bulog", "Minyak Goreng Bimoli", "Minyak Goreng KITA",
