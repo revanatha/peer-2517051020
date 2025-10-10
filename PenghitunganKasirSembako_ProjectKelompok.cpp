@@ -45,7 +45,13 @@ int main(){
     int jumlah_beli;
     cout << "Jumlah produk yang anda beli : ";
     cin >> jumlah_beli;
-    
+
+    int nomor = sizeof (sembako)/sizeof(sembako[0]);
+
+    int pilihan;
+    cout << "Kode produk yang anda beli : ";
+
+    int total_harga = 0;
     
 
 
