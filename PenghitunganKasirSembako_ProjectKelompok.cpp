@@ -1,9 +1,7 @@
 #include <iostream>
 using namespace std;
 
-string produk(string pilihan) {
-    string sembako[] = {""};
-}
+
 int main(){
     cout << " =================================================================================== " << endl;
     cout << "                                   SELAMAT DATANG DI                                 " << endl;
@@ -21,7 +19,6 @@ int main(){
     cout << " Tepung Terigu Segitiga Biru : Rp14000/kg " << endl;
     cout << " Garam Kasar                 : Rp4500/bungkus " << endl;
     cout << " Garam Halus                 : Rp3000/bungkus " << endl;
-    cout << " Susu Indomilk               : Rp4000/sachet " << endl ;
     cout << " Blue Band Margarine         : Rp15000/sachet " << endl;
     cout << " Telur                       : Rp58000/piring " << endl;
     cout << " Daging Ayam                 : Rp48000/kg " << endl;
