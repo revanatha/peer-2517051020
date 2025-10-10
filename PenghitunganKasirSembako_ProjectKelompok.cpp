@@ -56,10 +56,14 @@ int main(){
         cin >> pilihan;
         cout << endl;
 
-        for
-    }
-    
+        for(int j = 0; j < nomor; j++){
+            if(j == pilihan){
+                cout  << sembako[j]<< " : Rp" << harga[j];
 
+                total_harga += harga[j];
+     }
+    
+        }
 
 
 }
