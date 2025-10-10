@@ -33,7 +33,7 @@ int main(){
     string sembako[19] = {"Beras Premium", "Beras Bulog", "Minyak Goreng Bimoli", "Minyak Goreng KITA",
                         "Gula Pasir", "Tepung Terigu", "Tepung Terigu Segitiga Biru", "Garam Kasar",
                         "Garam Halus", "Blue Band Margarin", "Telur", "Daging Ayam", "Daging Sapi",
-                        "Cabe Merah", "Cabe Merah Keriting", "Cabe Rawit Merah", "Cabe Rawit Hijau,
+                        "Cabe Merah", "Cabe Merah Keriting", "Cabe Rawit Merah", "Cabe Rawit Hijau",
                         "Bawang Putih", "Bawang Merah"};
 
     int harga[19] = {17000, 12000, 22000, 15000, 18000, 12000, 14000, 4500, 3000, 15000,
