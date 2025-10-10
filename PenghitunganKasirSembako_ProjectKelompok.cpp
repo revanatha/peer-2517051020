@@ -10,15 +10,15 @@ int main(){
 
     cout << " DAFTAR HARGA SEMBAKO  HASIL INDUSTRI : " << endl << endl;
 
-    cout << " 1. Beras Premium               : Rp17000/kg " << endl;
-    cout << " 2. Beras Bulog                 : Rp12000/kg " << endl;
-    cout << " 3. Minyak Goreng Bimoli        : Rp22600/liter " << endl;
-    cout << " 4. Minyak Goreng KITA          : Rp15000/liter " << endl;
-    cout << " 5. Gula Pasir                  : Rp18000/kg " << endl;
-    cout << " 6. Tepung terigu               : Rp12000/kg " << endl;
-    cout << " 7. Tepung Terigu Segitiga Biru : Rp14000/kg " << endl;
-    cout << " 8. Garam Kasar                 : Rp4500/bungkus " << endl;
-    cout << " 9. Garam Halus                 : Rp3000/bungkus " << endl;
+    cout << " 1. Beras Premium                : Rp17000/kg " << endl;
+    cout << " 2. Beras Bulog                  : Rp12000/kg " << endl;
+    cout << " 3. Minyak Goreng Bimoli         : Rp22600/liter " << endl;
+    cout << " 4. Minyak Goreng KITA           : Rp15000/liter " << endl;
+    cout << " 5. Gula Pasir                   : Rp18000/kg " << endl;
+    cout << " 6. Tepung terigu                : Rp12000/kg " << endl;
+    cout << " 7. Tepung Terigu Segitiga Biru  : Rp14000/kg " << endl;
+    cout << " 8. Garam Kasar                  : Rp4500/bungkus " << endl;
+    cout << " 9. Garam Halus                  : Rp3000/bungkus " << endl;
     cout << " 10. Blue Band Margarine         : Rp15000/sachet " << endl;
     cout << " 11. Telur                       : Rp58000/piring " << endl;
     cout << " 12. Daging Ayam                 : Rp48000/kg " << endl;
