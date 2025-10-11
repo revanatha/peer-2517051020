@@ -78,5 +78,13 @@ int main(){
     cout << "|   [Kode 18]    |      Bawang Putih                      : Rp35000/kg             |" << endl;
     cout << "|   [Kode 19]    |      Bawang Merah                      : Rp20000/kg             |" << endl;
     cout << "====================================================================================" <<endl;
+    
+    
+    int jumlah_beli;
+    cout << "Jumlah produk yang anda beli : ";
+    cin >> jumlah_beli;
 
+    cout << "Kembali : Rp :" << beli(jumlah_beli) << endl;
 
+    return 0;
+}
