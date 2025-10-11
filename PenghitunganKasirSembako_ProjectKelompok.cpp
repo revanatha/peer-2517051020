@@ -47,7 +47,7 @@ int beli(int jumlah_beli) {
     int kembalian;
     if (jumlah_uang < total_harga) {
         cout << "Uang tidak cukup" << endl;
-        kembalian = -;
+        kembalian = 0;
     } else {
         kembalian = jumlah_uang - total_harga;
     }
