@@ -73,9 +73,8 @@ int main(){
     cout << "|   [Kode 14]    |      Cabe Merah Keriting               : Rp43000/kg             |" << endl;
     cout << "|   [Kode 15]    |      Cabe Rawit Merah                  : Rp45000/kg             |" << endl;
     cout << "|   [Kode 16]    |      Cabe Rawit Hijau                  : Rp40000/kg             |" << endl;
-    cout << "|   [Kode 17]    |      Cabe Rawit Hijau                  : Rp40000/kg             |" << endl;
-    cout << "|   [Kode 18]    |      Bawang Putih                      : Rp35000/kg             |" << endl;
-    cout << "|   [Kode 19]    |      Bawang Merah                      : Rp20000/kg             |" << endl;
+    cout << "|   [Kode 17]    |      Bawang Putih                      : Rp35000/kg             |" << endl;
+    cout << "|   [Kode 18]    |      Bawang Merah                      : Rp20000/kg             |" << endl;
     cout << "====================================================================================" << endl;
     
     int jumlah_beli;
@@ -83,6 +82,12 @@ int main(){
     cin >> jumlah_beli;
 
     cout << "Kembali : Rp :" << beli(jumlah_beli) << endl;
+
+    cout << "====================================================================================" << endl;
+
+    cout << "                   TERIMAKASIH SUDAH BERBELANJA DI TOKO SEMBAKO                     " << endl;
+
+    cout << "====================================================================================" << endl;
 
     return 0;
 }
